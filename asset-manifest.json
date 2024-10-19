@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/css/main.0d904a61.css",
+    "main.js": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/js/main.08a4381d.js",
+    "static/js/453.a2304702.chunk.js": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/js/453.a2304702.chunk.js",
+    "static/media/home_page_carousel_1.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/home_page_carousel_1.94f60b97d063bfa4b8a069c721cdecd0.svg",
+    "static/media/balconies_loggias.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/balconies_loggias.510b63710485711230479b64e4a877ae.svg",
+    "static/media/plasticwindow_img.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/plasticwindow_img.568be7b9cfa928c98313e79b9c8e5bec.svg",
+    "static/media/prestige_okno_logo_blue.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/prestige_okno_logo_blue.47d2c88775260c56f0e95285ae0617be.svg",
+    "static/media/kbe.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/kbe.051a17a8eb3f6fecb678518e2d710c22.svg",
+    "static/media/proplex.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/proplex.9a89f06bfc0d0bbe1d94cbd9f55d7bb9.svg",
+    "static/media/entrance_groups.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/entrance_groups.a02d6dcf48b2cc1c02b7880d2a557575.svg",
+    "static/media/prestige_okno_logo_white.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/prestige_okno_logo_white.bc635ad17964a4e0413c8da6a0ed3fa4.svg",
+    "static/media/bargain.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/bargain.ec344c610650b0484d49ae5c9986d8f2.svg",
+    "static/media/deceunink.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/deceunink.0b547cb2a6491c192376b7ff6f1af0c0.svg",
+    "static/media/logo.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/verify_icon.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/verify_icon.abd6387af600af49ebf067a2b84542fb.svg",
+    "static/media/slick.woff": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/tools_icon.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/tools_icon.83c99454db09a5f5383c5206dc559258.svg",
+    "index.html": "//github.com/vahagnxzvzzv/prestigeokno_beta/index.html",
+    "static/media/phone_icon.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/phone_icon.165f82b2b3c381040951b03c60e9496d.svg",
+    "static/media/precent_icon.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/precent_icon.bed859da35d138fc6aa164d22a15bfde.svg",
+    "static/media/calculator_icon.svg": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/media/calculator_icon.f73adfd6bc203fa92f3e982330d51ff7.svg",
+    "main.0d904a61.css.map": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/css/main.0d904a61.css.map",
+    "main.08a4381d.js.map": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/js/main.08a4381d.js.map",
+    "453.a2304702.chunk.js.map": "//github.com/vahagnxzvzzv/prestigeokno_beta/static/js/453.a2304702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d904a61.css",
+    "static/js/main.08a4381d.js"
+  ]
+}
